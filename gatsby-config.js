@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: `/`, // Change to `/running_page` when running on github pages
   siteMetadata: {
-    title: 'WeRun',
+    title: 'Funsi Run',
     siteUrl: 'https://weiluge.jdzjw.com',
     description: 'Blog',
   },
