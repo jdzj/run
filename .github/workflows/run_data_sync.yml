@@ -23,7 +23,7 @@ env:
   RUN_TYPE: nike # support runtastic/strava/nike/garmin/garmin_cn/keep/only_gpx/nike_to_strava, Please change the 'pass' it to your own
   ATHLETE: jdzj
   TITLE: running
-  TITLE_GRID: Over 10km Runs
+  TITLE_GRID: Over 3km Runs
   GITHUB_NAME: jdzj
   GITHUB_EMAIL: topy117@gmail.com
 
