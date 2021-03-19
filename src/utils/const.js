@@ -51,7 +51,7 @@ export const AVATAR =
 export const NAVS = [
   { text: 'Blog', link: 'https://weiluge.jdzjw.com/' },
   { text: 'Sites', link: 'https://www.mysites.cn/' },
-  { text: 'About', link: 'https://github.com/jdzj/running_page' },
+  { text: 'About', link: 'https://github.com/jdzj/run' },
 ];
 
 const nike = 'rgb(224,237,94)';
