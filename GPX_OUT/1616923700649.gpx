@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <trkseg>
+      <trkpt lat="29.392022395926983" lon="119.23068383239205">
+        <ele>50.52818215917796</ele>
+        <time>2021-03-28T09:25:43Z</time>
+      </trkpt>
+      <trkpt lat="29.392106939891423" lon="119.23060792829384">
+        <ele>50.73705064505339</ele>
+        <time>2021-03-28T09:25:47Z</time>
+      </trkpt>
+      <trkpt lat="29.392212056743382" lon="119.23064733525288">
+        <ele>51.017706610262394</ele>
+        <time>2021-03-28T09:25:51Z</time>
+      </trkpt>
+      <trkpt lat="29.392309879924827" lon="119.2306478614459">
+        <ele>50.41638938803226</ele>
+        <time>2021-03-28T09:25:55Z</time>
+      </trkpt>
+      <trkpt lat="29.39241384638555" lon="119.230604919215">
+        <ele>53.479298105463386</ele>
+        <time>2021-03-28T09:26:01Z</time>
+      </trkpt>
+      <trkpt lat="29.392513173795678" lon="119.23056057831221">
+        <ele>53.05003949254751</ele>
+        <time>2021-03-28T09:26:04.999000Z</time>
+      </trkpt>
+      <trkpt lat="29.392613726580496" lon="119.23052573374608">
+        <ele>52.9265313250944</ele>
+        <time>2021-03-28T09:26:08.999000Z</time>
+      </trkpt>
+      <trkpt lat="29.39273123368179" lon="119.23052937097398">
+        <ele>51.71516917832196</ele>
+        <time>2021-03-28T09:26:13.999000Z</time>
+      </trkpt>
+      <trkpt lat="29.39282780010609" lon="119.23053169908292">
+        <ele>51.23824479710311</ele>
+        <time>2021-03-28T09:26:17.999000Z</time>
+      </trkpt>
+      <trkpt lat="29.39292560152242" lon="119.23052518414787">
+        <ele>50.23014806210995</ele>
+        <time>2021-03-28T09:26:21.999000Z</time>
+      </trkpt>
+      <trkpt lat="29.393027214342357" lon="119.23054388905643">
+        <ele>49.21105713304132</ele>
+        <time>2021-03-28T09:26:26.999000Z</time>
+      </trkpt>
+      <trkpt lat="29.39312071238794" lon="119.2305510399635">
+        <ele>47.390500760637224</ele>
+        <time>2021-03-28T09:26:30.999000Z</time>
+      </trkpt>
+      <trkpt lat="29.393147979937254" lon="119.2304509025079">
+        <time>2021-03-28T09:27:26.997000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
