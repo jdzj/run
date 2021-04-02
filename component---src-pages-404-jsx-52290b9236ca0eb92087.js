@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{pssB:function(e,a,n){"use strict";n.r(a);var t=n("q1tI"),s=n.n(t),l=n("ntAx");a.default=function(){return s.a.createElement(l.a,null,s.a.createElement("h1",{className:"f-headline"},"404"),s.a.createElement("p",null,"This page doesn't exist."),s.a.createElement("p",{className:"moon-gray"},"If you wanna more message, you could visit"," ",s.a.createElement("a",{className:"moon-gray b",href:"http://weiluge.com/"},"微录阁")))}}}]);
+//# sourceMappingURL=component---src-pages-404-jsx-52290b9236ca0eb92087.js.map
