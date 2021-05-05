@@ -18,11 +18,11 @@ const Layout = ({ children }) => {
             name: 'description',
             content: description,
           },
-          { name: 'keywords', content: 'running' },
+          { name: 'keywords', content: 'running,run,weiluge run,weiluge.com' },
         ]}
         bodyAttributes={{ class: styles.body }}
       >
-        <html lang="en" />
+        <html lang="zh-CN" />
       </Helmet>
       <Header siteTitle={title} />
       <div className="pa3 pa5-l">{children}</div>
