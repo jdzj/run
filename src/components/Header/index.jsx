@@ -1,6 +1,10 @@
 import React from 'react';
 import { Link } from 'gatsby';
 import { AVATAR, NAVS } from 'src/utils/const';
+from django.views.generic.base import RedirectView
+favicon_view = RedirectView.as_view(url=r'static/image/favicon.ico', permanent=True)
+# 全站图标
+path('favicon.ico', favicon_view),
 
 const Header = ({ siteTitle }) => {
   if (!AVATAR && !NAVS) return null;
